@@ -1,0 +1,81 @@
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+// pdfViewer highlight class
+.bg-class1 {
+  background: rgba(255, 114, 110, 0.4);
+}
+.border-class1 {
+  background: rgba(255, 114, 110, 0.4);
+  border: 2px solid #FF726E !important;
+}
+.bg-class2 {
+  background: rgba(240, 136, 136, 0.4);
+}
+.border-class2 {
+  background: rgba(240, 136, 136, 0.4);
+  border: 2px solid #F08888 !important;
+}
+.bg-class3 {
+  background: rgba(255, 114, 110, 0.4);
+}
+.border-class3 {
+  background: rgba(255, 147, 83, 0.4);
+  border: 2px solid #FF9353 !important;
+}
+.bg-class4 {
+  background: rgba(231, 165, 0, 0.4);
+}
+.border-class4 {
+  background: rgba(231, 165, 0, 0.4);
+  border: 2px solid #E7A500 !important;
+}
+.bg-class5 {
+  background: rgba(130, 194, 58, 0.4);
+}
+.border-class5 {
+  background: rgba(130, 194, 58, 0.4);
+  border: 2px solid #82C23A !important;
+}
+.bg-class6 {
+  background: rgba(88, 194, 114, 0.4);
+}
+.border-class6 {
+  background: rgba(88, 194, 114, 0.4);
+  border: 2px solid #58C272 !important;
+}
+.bg-class7 {
+  background: rgba(89, 189, 198, 0.4);
+}
+.border-class7 {
+  background: rgba(89, 189, 198, 0.4);
+  border: 2px solid #59BDC6 !important;
+}
+.bg-class8 {
+  background: rgba(95, 173, 231, 0.4);
+}
+.border-class8 {
+  background: rgba(95, 173, 231, 0.4);
+  border: 2px solid #5FADE7 !important;
+}
+.bg-class9 {
+  background: rgba(172, 143, 239, 0.4);
+}
+.border-class9 {
+  background: rgba(172, 143, 239, 0.4);
+  border: 2px solid #AC8FEF !important;
+}
+.bg-class10 {
+  background: rgba(215, 138, 211, 0.4);
+}
+.border-class10 {
+  background: rgba(215, 138, 211, 0.4);
+  border: 2px solid #D78AD3 !important;
+}

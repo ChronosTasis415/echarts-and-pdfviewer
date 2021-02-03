@@ -1,0 +1,67 @@
+[  
+  {
+    "source": {
+      "name": "吴光明",
+      "type": "person"
+    },
+    "target": {
+      "name": "江苏鱼跃科技发展有限公司",
+      "type": "private-company"
+    },
+    "relationship": {
+      "value": "90.00%"
+    }
+  },
+  {
+    "source": {
+      "name": "吴群",
+      "type": "person"
+    },
+    "target": {
+      "name": "江苏鱼跃医疗设备股份有限公司",
+      "type": "private-company"
+    },
+    "relationship": {
+      "value": "7.72%"
+    }
+  }, 
+  {
+    "source": {
+      "name": "吴光明",
+      "type": "person"
+    },
+    "target": {
+      "name": "江苏鱼跃医疗设备股份有限公司",
+      "type": "private-company"
+    },
+    "relationship": {
+      "value": "10.32"
+    }
+  }, 
+  {
+    "source": {
+      "name": "江苏鱼跃科技发展有限公司",
+      "type": "private-company"
+    },
+    "target": {
+      "name": "江苏鱼跃医疗设备股份有限公司",
+      "type": "private-company"
+    },
+    "relationship": {
+      "value": "26.53%"
+    }
+  }, 
+  {
+    "source": {
+      "name": "吴群",
+      "type": "person"
+    },
+    "target": {
+      "name": "江苏鱼跃科技发展有限公司",
+      "type": "private-company"
+    },
+    "relationship": {
+      "value": "10.00%"
+    }
+  }
+]
